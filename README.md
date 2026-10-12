@@ -1,10 +1,27 @@
-# Grok Imagine 1.5 Edit Ext — engenharia reversa route (Português)
+# Grok Imagine 1.5 Edit API (`grok-imagine-1.5-edit-apimart`)
 
-> **1K $0.015** · model ID `grok-imagine-1.5-edit-apimart` · **engenharia reversa/reverse-engineered** route.
+<!-- conv-kit:v1 -->
 
-**[Ver preços](https://go.apimart.ai/k-2b862a)** · **[Obter chave de API](https://go.apimart.ai/k-26162f)**
+<p align="center">
+  <img src="assets/badges/price.svg" alt="observed unit price"> <img src="assets/badges/billing.svg" alt="billing model"> <img src="assets/badges/compat.svg" alt="OpenAI-compatible endpoint">
+</p>
 
-grok-imagine-1.5-edit-ext-reverse-api-pt é uma rota **engenharia reversa** para Grok Imagine 1.5 Edit Ext: ID chamável `grok-imagine-1.5-edit-apimart`, em paralelo com a rota oficial (`grok-imagine-image (edit)`) a um preço unitário menor.
+<p align="center">
+  <img src="assets/01-product-hero-perfume.jpg" width="820" alt="Grok Imagine 1.5 Edit (grok-imagine-1.5-edit-apimart) output generated through APIMart">
+</p>
+
+> **from $0.015 per image** — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+
+**[Get an API key](https://go.apimart.ai/k-26162f)** · **[Live pricing](https://go.apimart.ai/k-c77046)** · **[Model page](https://go.apimart.ai/k-555dba)** · [⚡ 60-second quickstart](#quickstart)
+
+**Why teams call Grok Imagine 1.5 Edit (`grok-imagine-1.5-edit-apimart`) through APIMart**
+
+- **One key, entire catalog.** The same `https://api.apimart.ai/v1` base URL and `Authorization` header reach Grok Imagine 1.5 Edit (`grok-imagine-1.5-edit-apimart`) and 300+ other image, video and language models — switch the `model` field, not your client.
+- **$1 minimum, pay as you go.** No subscription and no prepaid plan to size up front: top up from $1 and spend it on calls. There is no free quota to burn through first, so the price in this table is the price you pay.
+- **The charge comes back in the response.** Every completed task reports the amount billed (`cost` / `credits_cost`), so a spend number is read per call instead of guessed at month end.
+- **Async by design.** Submit, take the `task_id`, poll `GET /v1/tasks/{id}` — batching and retries are ordinary queue work, not a bespoke integration.
+
+<!-- /conv-kit:v1 -->
 
 ## Pricing (snapshot 2026-09-28)
 
